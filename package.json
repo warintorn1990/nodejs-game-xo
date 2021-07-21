@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-game-xo",
+  "version": "1.0.0",
+  "description": "nodejs-game-xo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warintorn1990/nodejs-game-xo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warintorn1990/nodejs-game-xo/issues"
+  },
+  "homepage": "https://github.com/warintorn1990/nodejs-game-xo#readme",
+  "dependencies": {
+    "prompt": "^1.1.0"
+  }
+}
